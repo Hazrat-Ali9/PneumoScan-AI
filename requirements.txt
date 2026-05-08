@@ -1,0 +1,37 @@
+# Core
+numpy==2.2.6
+pandas==2.3.3
+tqdm>=4.66
+scipy>=1.12
+python-box==6.0.2
+ensure==1.0.4
+PyYAML
+types-PyYAML
+
+# Video / Image
+opencv-python>=4.8
+scikit-image>=0.21
+
+# TensorFlow / Keras
+tensorflow==2.20.0
+
+# Plotting / Visualization
+matplotlib==3.10.8
+
+# Utilities
+h5py
+joblib
+
+# FastAPI
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit>=1.40
+
+# req-dev
+dvc
+mlflow
+notebook
+gdown
+
+
+-e .
