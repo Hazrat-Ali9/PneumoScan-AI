@@ -1,0 +1,66 @@
+step1 :
+    templates.sh
+    requirements.txt
+    setup.py
+
+    pip install -r requirements.txt
+
+step2 :
+    logging.py
+    exception.py
+
+step3 :
+    entity/config.py
+    utilites/__init__.py
+    constant/__init__.py
+    yamlfile/config.yamlfile
+    configeration/__init__.py
+
+            components/data_ingestion.py
+
+step3 :
+    entity/config.py
+    constant/__init__.py
+    yamlfile/config.yamlfile
+    configeration/__init__.py
+
+            components/prepare_basemodel.py
+
+step4 :
+    entity/config.py
+    constant/__init__.py
+    yamlfile/config.yamlfile
+    configeration/__init__.py
+
+            components/callbacks.py
+
+step5 :
+    entity/config.py
+    constant/__init__.py
+    yamlfile/config.yamlfile
+    configeration/__init__.py
+
+            components/model_trainer.py
+
+step6 :
+    entity/config.py
+    constant/__init__.py
+    yamlfile/config.yamlfile
+    configeration/__init__.py
+
+            components/model_evalution.py
+
+step7 :
+    pipeline/__init__.py
+
+            components/inferance.py
+
+step8 :
+        main.py
+        app.py
+
+
+
+## Starting Project ------------------------------------------------------------------------
+
+
