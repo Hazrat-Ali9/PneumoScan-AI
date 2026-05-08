@@ -120,3 +120,5 @@ Demonstrate real-world healthcare AI applications
 💡 “AI assisting doctors in detecting pneumonia faster and smarter.”
 
 A deep learning solution designed to analyze chest X-ray images and detect pneumonia using intelligent medical imaging techniques.
+
+[MIT License](LICENSE)
