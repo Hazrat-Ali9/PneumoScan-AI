@@ -1,12 +1,5 @@
 # 🩺 PneumoScan-AI — Deep Learning for Pneumonia Detection from Chest X-rays
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%202.x-orange)](https://tensorflow.org)
-[![Model](https://img.shields.io/badge/Architecture-U--Net%20%2B%20ResNet50-green)](https://arxiv.org/abs/1505.04597)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)
-
----
-
 ## PneumoScan-AI
 
 Automated Lung Segmentation and Abnormality Detection in Chest X-rays using U-Net with ResNet50 Backbone
